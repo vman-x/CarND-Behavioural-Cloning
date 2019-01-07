@@ -15,12 +15,12 @@ The goals / steps of this project are the following:
 [//]: # (Image References)
 
 [image1]: ./imgs/center_lane.jpg "Center lane driving"
-[image2]: ./examples/recovery_1.jpg "Recovery 1"
-[image3]: ./examples/recovery_2.jpg "Recovery 2"
-[image4]: ./examples/recovery_3.jpg "Recovery 3"
-[image5]: ./examples/normal.jpg "Normal"
-[image6]: ./examples/reversed.jpg "Flipped"
-[image7]: ./examples/stats.jpg "Stats"
+[image2]: ./imgs/recovery_1.jpg "Recovery 1"
+[image3]: ./imgs/recovery_2.jpg "Recovery 2"
+[image4]: ./imgs/recovery_3.jpg "Recovery 3"
+[image5]: ./imgs/normal.jpg "Normal"
+[image6]: ./imgs/reversed.jpg "Flipped"
+[image7]: ./imgs/stats.jpg "Stats"
 
 
 ## Rubric Points
